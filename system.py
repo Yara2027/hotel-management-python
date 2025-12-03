@@ -1,2 +1,3 @@
 print("hello hotel project")
-print("try adding")
+print("hello")
+print("try")
